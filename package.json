@@ -1,0 +1,15 @@
+{
+  "name": "nglscreenshots",
+  "version": "1.0.0",
+  "description": "NGL headless screenshot example",
+  "main": "index.js",
+  "author": "Harry Jubb",
+  "license": "MIT",
+  "dependencies": {
+    "ngl": "2.0.0-dev.31",
+    "puppeteer": "^1.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
